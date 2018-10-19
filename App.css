@@ -1,0 +1,10 @@
+.main{
+       margin-top: 64px;
+    
+}
+.my-app{
+background-image: url('../src/components/Image/myfirst.jpg');
+    height: 100%;
+    background-size: cover !important;
+    width: 100%;
+}
